@@ -1,0 +1,10 @@
+{
+  "logincard": {
+    "heading": "Accedi alla tua area riservata",
+    "email": "Indirizzo e-mail",
+    "password": "Parola d'ordine",
+    "forgotpassword": "Hai dimenticato la password?",
+    "donthaveaccount": "Non hai ancora un conto?",
+    "registerhere": "Registrati qui!"
+  }
+}

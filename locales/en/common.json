@@ -1,0 +1,10 @@
+{
+  "logincard": {
+    "heading": "Log in your reserved area",
+    "email": "Email address",
+    "password": "Password",
+    "forgotpassword": "Forgot your password?",
+    "donthaveaccount": "Don’t have an account yet?",
+    "registerhere": "Register here!"
+  }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.309" height="28.309" viewBox="0 0 28.309 28.309">
+  <g id="star-slash" transform="translate(-172 -188)">
+    <path id="Vector" d="M3.868,19.548l.672-2.914A2.561,2.561,0,0,0,3.927,14.5L1,11.574C-.721,9.852-.166,8.106,2.24,7.705L6,7.08A2.569,2.569,0,0,0,7.666,5.842L9.742,1.69c1.121-2.253,2.961-2.253,4.093,0l2.076,4.152a2.413,2.413,0,0,0,.649.755" transform="translate(174.36 190.451)" fill="none" stroke="#250f98" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M14.249,0c2.406.4,2.972,2.147,1.239,3.869L12.562,6.794a2.561,2.561,0,0,0-.613,2.135l.837,3.621c.661,2.866-.861,3.975-3.4,2.477L5.862,12.94a2.55,2.55,0,0,0-2.336,0L0,15.028" transform="translate(181.46 198.156)" fill="none" stroke="#250f98" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M23.591,0,0,23.591" transform="translate(174.359 190.359)" fill="none" stroke="#250f98" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H28.309V28.309H0Z" transform="translate(172 188)" fill="none" opacity="0"/>
+  </g>
+</svg>
