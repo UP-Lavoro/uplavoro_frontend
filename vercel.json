@@ -1,0 +1,21 @@
+{
+  "name": "uplavoro",
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    { "src": "/api/(.*)", "dest": "api/$1.js" },
+    { "src": "/(.*)", "dest": "public/$1" }
+  ],
+  "env": {
+    "NEXT_PUBLIC_API_HOST": "https://uplavoro.spenzar.com",
+    "NEXT_PUBLIC_LINKEDIN_CLIENT_ID": "78ckrr2jatcmj7",
+    "NEXT_PUBLIC_LINKEDIN_CLIENT_SECRET": "CiZhX2NqybLO3SzN",
+    "NEXT_PUBLIC_GOOGLE_CLIENT_ID": "953745301310-l1dpofroslv24p9r1ld7mo1pi5u36h1n.apps.googleusercontent.com",
+    "NEXT_PUBLIC_GOOGLE_CLIENT_SECRET": "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"
+  }
+}
